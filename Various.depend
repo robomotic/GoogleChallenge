@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1373908778 source:/home/robomotic/Documents/Interview/Various/main.cpp
+	<iostream>
+	"algorithm.h"
+
+1373960167 /home/robomotic/Documents/Interview/Various/algorithm.h
+	<vector>
+	<stdexcept>
+	<boost/lexical_cast.hpp>
+
